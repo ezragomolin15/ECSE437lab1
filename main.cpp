@@ -1,3 +1,4 @@
+//Ezra Gomolin - 260926917, Greogory Walfish - 260923982
 #include<iostream>
 using namespace std;
 int main ()
