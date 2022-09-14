@@ -1,4 +1,5 @@
 //Ezra Gomolin - 260926917, Greogory Walfish - 260923982
+//ezra.gomolin@mail.mcgill.ca, gregory.walfish@mail.mcgill.ca
 #include<iostream>
 using namespace std;
 int main ()
